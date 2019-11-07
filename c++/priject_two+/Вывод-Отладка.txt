@@ -1,0 +1,14 @@
+﻿"priject_two+.exe" (Win32). Загружено "C:\Users\galimovkirill\source\repos\c++\priject_two+\Debug\priject_two+.exe". Символы загружены.
+"priject_two+.exe" (Win32). Загружено "C:\Windows\System32\ntdll.dll". 
+"priject_two+.exe" (Win32). Загружено "C:\Windows\System32\kernel32.dll". 
+"priject_two+.exe" (Win32). Загружено "C:\Windows\System32\KernelBase.dll". 
+"priject_two+.exe" (Win32). Загружено "C:\Windows\System32\msvcp140d.dll". 
+"priject_two+.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140d.dll". 
+"priject_two+.exe" (Win32). Загружено "C:\Windows\System32\ucrtbased.dll". 
+Поток 0x268c завершился с кодом 0 (0x0).
+"priject_two+.exe" (Win32). Загружено "C:\Windows\System32\kernel.appcore.dll". 
+"priject_two+.exe" (Win32). Загружено "C:\Windows\System32\msvcrt.dll". 
+"priject_two+.exe" (Win32). Загружено "C:\Windows\System32\rpcrt4.dll". 
+Поток 0x1494 завершился с кодом 0 (0x0).
+Поток 0x2960 завершился с кодом 0 (0x0).
+Программа "[9400] priject_two+.exe" завершилась с кодом 0 (0x0).

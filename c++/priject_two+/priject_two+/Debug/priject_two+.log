@@ -1,0 +1,3 @@
+﻿  priject_two+.cpp
+C:\Users\galimovkirill\source\repos\c++\priject_two+\priject_two+\priject_two+.cpp(8,16): warning C4305:  инициализация: усечение из "double" в "float"
+  priject_two+.vcxproj -> C:\Users\galimovkirill\source\repos\c++\priject_two+\Debug\priject_two+.exe

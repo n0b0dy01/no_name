@@ -1,0 +1,10 @@
+C:\Users\galimovkirill\source\repos\гущин дурак 1\гущин дурак 1\bin\Debug\netcoreapp2.1\гущин дурак 1.deps.json
+C:\Users\galimovkirill\source\repos\гущин дурак 1\гущин дурак 1\bin\Debug\netcoreapp2.1\гущин дурак 1.runtimeconfig.json
+C:\Users\galimovkirill\source\repos\гущин дурак 1\гущин дурак 1\bin\Debug\netcoreapp2.1\гущин дурак 1.runtimeconfig.dev.json
+C:\Users\galimovkirill\source\repos\гущин дурак 1\гущин дурак 1\bin\Debug\netcoreapp2.1\гущин дурак 1.dll
+C:\Users\galimovkirill\source\repos\гущин дурак 1\гущин дурак 1\bin\Debug\netcoreapp2.1\гущин дурак 1.pdb
+C:\Users\galimovkirill\source\repos\гущин дурак 1\гущин дурак 1\obj\Debug\netcoreapp2.1\гущин дурак 1.csproj.CoreCompileInputs.cache
+C:\Users\galimovkirill\source\repos\гущин дурак 1\гущин дурак 1\obj\Debug\netcoreapp2.1\гущин дурак 1.AssemblyInfoInputs.cache
+C:\Users\galimovkirill\source\repos\гущин дурак 1\гущин дурак 1\obj\Debug\netcoreapp2.1\гущин дурак 1.AssemblyInfo.cs
+C:\Users\galimovkirill\source\repos\гущин дурак 1\гущин дурак 1\obj\Debug\netcoreapp2.1\гущин дурак 1.dll
+C:\Users\galimovkirill\source\repos\гущин дурак 1\гущин дурак 1\obj\Debug\netcoreapp2.1\гущин дурак 1.pdb

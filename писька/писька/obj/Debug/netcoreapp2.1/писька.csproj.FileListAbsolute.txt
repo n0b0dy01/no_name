@@ -1,0 +1,11 @@
+C:\Users\galimovkirill\source\repos\писька\писька\bin\Debug\netcoreapp2.1\писька.deps.json
+C:\Users\galimovkirill\source\repos\писька\писька\bin\Debug\netcoreapp2.1\писька.runtimeconfig.json
+C:\Users\galimovkirill\source\repos\писька\писька\bin\Debug\netcoreapp2.1\писька.runtimeconfig.dev.json
+C:\Users\galimovkirill\source\repos\писька\писька\bin\Debug\netcoreapp2.1\писька.dll
+C:\Users\galimovkirill\source\repos\писька\писька\bin\Debug\netcoreapp2.1\писька.pdb
+C:\Users\galimovkirill\source\repos\писька\писька\obj\Debug\netcoreapp2.1\писька.csprojAssemblyReference.cache
+C:\Users\galimovkirill\source\repos\писька\писька\obj\Debug\netcoreapp2.1\писька.csproj.CoreCompileInputs.cache
+C:\Users\galimovkirill\source\repos\писька\писька\obj\Debug\netcoreapp2.1\писька.AssemblyInfoInputs.cache
+C:\Users\galimovkirill\source\repos\писька\писька\obj\Debug\netcoreapp2.1\писька.AssemblyInfo.cs
+C:\Users\galimovkirill\source\repos\писька\писька\obj\Debug\netcoreapp2.1\писька.dll
+C:\Users\galimovkirill\source\repos\писька\писька\obj\Debug\netcoreapp2.1\писька.pdb

@@ -1,0 +1,11 @@
+C:\Users\galimovkirill\source\repos\c#\с шарп 3 лаба 2 часть\с шарп 3 лаба 2 часть\bin\Debug\netcoreapp2.1\с шарп 3 лаба 2 часть.deps.json
+C:\Users\galimovkirill\source\repos\c#\с шарп 3 лаба 2 часть\с шарп 3 лаба 2 часть\bin\Debug\netcoreapp2.1\с шарп 3 лаба 2 часть.runtimeconfig.json
+C:\Users\galimovkirill\source\repos\c#\с шарп 3 лаба 2 часть\с шарп 3 лаба 2 часть\bin\Debug\netcoreapp2.1\с шарп 3 лаба 2 часть.runtimeconfig.dev.json
+C:\Users\galimovkirill\source\repos\c#\с шарп 3 лаба 2 часть\с шарп 3 лаба 2 часть\bin\Debug\netcoreapp2.1\с шарп 3 лаба 2 часть.dll
+C:\Users\galimovkirill\source\repos\c#\с шарп 3 лаба 2 часть\с шарп 3 лаба 2 часть\bin\Debug\netcoreapp2.1\с шарп 3 лаба 2 часть.pdb
+C:\Users\galimovkirill\source\repos\c#\с шарп 3 лаба 2 часть\с шарп 3 лаба 2 часть\obj\Debug\netcoreapp2.1\с шарп 3 лаба 2 часть.csprojAssemblyReference.cache
+C:\Users\galimovkirill\source\repos\c#\с шарп 3 лаба 2 часть\с шарп 3 лаба 2 часть\obj\Debug\netcoreapp2.1\с шарп 3 лаба 2 часть.csproj.CoreCompileInputs.cache
+C:\Users\galimovkirill\source\repos\c#\с шарп 3 лаба 2 часть\с шарп 3 лаба 2 часть\obj\Debug\netcoreapp2.1\с шарп 3 лаба 2 часть.AssemblyInfoInputs.cache
+C:\Users\galimovkirill\source\repos\c#\с шарп 3 лаба 2 часть\с шарп 3 лаба 2 часть\obj\Debug\netcoreapp2.1\с шарп 3 лаба 2 часть.AssemblyInfo.cs
+C:\Users\galimovkirill\source\repos\c#\с шарп 3 лаба 2 часть\с шарп 3 лаба 2 часть\obj\Debug\netcoreapp2.1\с шарп 3 лаба 2 часть.dll
+C:\Users\galimovkirill\source\repos\c#\с шарп 3 лаба 2 часть\с шарп 3 лаба 2 часть\obj\Debug\netcoreapp2.1\с шарп 3 лаба 2 часть.pdb

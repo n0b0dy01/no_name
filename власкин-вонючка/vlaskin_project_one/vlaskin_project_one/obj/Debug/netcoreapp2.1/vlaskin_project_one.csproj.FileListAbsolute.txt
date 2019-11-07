@@ -1,0 +1,11 @@
+C:\Users\galimovkirill\source\repos\vlaskin_project_one\vlaskin_project_one\bin\Debug\netcoreapp2.1\vlaskin_project_one.deps.json
+C:\Users\galimovkirill\source\repos\vlaskin_project_one\vlaskin_project_one\bin\Debug\netcoreapp2.1\vlaskin_project_one.runtimeconfig.json
+C:\Users\galimovkirill\source\repos\vlaskin_project_one\vlaskin_project_one\bin\Debug\netcoreapp2.1\vlaskin_project_one.runtimeconfig.dev.json
+C:\Users\galimovkirill\source\repos\vlaskin_project_one\vlaskin_project_one\bin\Debug\netcoreapp2.1\vlaskin_project_one.dll
+C:\Users\galimovkirill\source\repos\vlaskin_project_one\vlaskin_project_one\bin\Debug\netcoreapp2.1\vlaskin_project_one.pdb
+C:\Users\galimovkirill\source\repos\vlaskin_project_one\vlaskin_project_one\obj\Debug\netcoreapp2.1\vlaskin_project_one.csprojAssemblyReference.cache
+C:\Users\galimovkirill\source\repos\vlaskin_project_one\vlaskin_project_one\obj\Debug\netcoreapp2.1\vlaskin_project_one.csproj.CoreCompileInputs.cache
+C:\Users\galimovkirill\source\repos\vlaskin_project_one\vlaskin_project_one\obj\Debug\netcoreapp2.1\vlaskin_project_one.AssemblyInfoInputs.cache
+C:\Users\galimovkirill\source\repos\vlaskin_project_one\vlaskin_project_one\obj\Debug\netcoreapp2.1\vlaskin_project_one.AssemblyInfo.cs
+C:\Users\galimovkirill\source\repos\vlaskin_project_one\vlaskin_project_one\obj\Debug\netcoreapp2.1\vlaskin_project_one.dll
+C:\Users\galimovkirill\source\repos\vlaskin_project_one\vlaskin_project_one\obj\Debug\netcoreapp2.1\vlaskin_project_one.pdb
